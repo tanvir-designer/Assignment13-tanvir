@@ -1,0 +1,12 @@
+
+/* .h1, .h2, .h3, .h4, .h5, .h6, p{
+    margin-bottom: 0;
+    padding-bottom: 0;
+} */
+.header-part{
+    background-color: #34495e;
+}
+.section-1{
+    background: url(https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHw%3D&w=1000&q=80) no-repeat center center;
+    background-size: cover;
+}
